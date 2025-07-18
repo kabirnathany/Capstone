@@ -3,7 +3,9 @@ import React from 'react';
 function Main() {
   return (
     <main>
-      {/* Main content goes here */}
+      <div className="main-column"></div>
+      <div className="main-column"></div>
+      <div className="main-column"></div>
     </main>
   );
 }
